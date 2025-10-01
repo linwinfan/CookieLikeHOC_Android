@@ -1,0 +1,617 @@
+{
+  "category": "steam",
+  "count": 29,
+  "recipes": [
+    {
+      "title": "三色虾仁",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "三色杂菜（玉米、豌豆、胡萝卜）",
+        "虾仁",
+        "盐",
+        "鸡精",
+        "香葱",
+        "生姜",
+        "玉米淀粉",
+        "白糖",
+        "大豆油"
+      ],
+      "instructions": [
+        "每 150g 三色杂菜中放入 6g 大豆油、1g 鸡精、1g 盐、1g 白糖，拌匀备用；",
+        "将调味后的三色杂菜平铺于餐具底部；",
+        "将去腥、上浆后的 6 颗虾仁平铺在杂菜上；",
+        "蒸柜上汽后，蒸制 8 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/三色虾仁.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\三色虾仁.md"
+    },
+    {
+      "title": "农家蒸蛋",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/农家蒸蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\农家蒸蛋.md"
+    },
+    {
+      "title": "凤爪蒸豆米",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 50,
+      "servings": 2,
+      "ingredients": [
+        "鸡爪或鸭爪",
+        "毛豆米",
+        "鸡油",
+        "鸡精",
+        "盐",
+        "[老鸡汤]"
+      ],
+      "instructions": [
+        "将咸鸡爪或咸鸭爪清洗干净，咸鸡爪蒸制 50 分钟或咸鸭爪蒸制 25 分钟；",
+        "将 120g 豆米放入餐具，撒上 1g 盐、1g 鸡精、10g 鸡油；",
+        "将 40g 蒸制后的爪子平铺在豆米上，并加入 20g 老鸡汤；",
+        "蒸柜上汽后，蒸制 12 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/凤爪蒸豆米.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\凤爪蒸豆米.md"
+    },
+    {
+      "title": "剁椒鱼头",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "白鲢鱼头或草鱼头",
+        "[剁椒鱼头料]",
+        "葱"
+      ],
+      "instructions": [
+        "单份鱼头上均匀平铺 120g 剁椒鱼头料；",
+        "蒸柜上汽后，蒸制 10 分钟，出品时撒 1g 葱花点缀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/剁椒鱼头（草鱼头版）.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\剁椒鱼头.md"
+    },
+    {
+      "title": "奥尔良鸡翅",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "翅根",
+        "翅中",
+        "奥尔良腌料（来自青岛日辰食品）"
+      ],
+      "instructions": [
+        "腌制流程老乡鸡官方未提供，请根据个人口味酌情处理。",
+        "蒸制版：将解冻好的奥尔良鸡翅放入上汽后的蒸柜中，蒸制 20 分钟。",
+        "炸制版：将解冻好的奥尔良鸡翅，放入 170℃油中，炸制 8 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/奥尔良鸡翅（儿童餐版）.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\奥尔良鸡翅.md"
+    },
+    {
+      "title": "松糕",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "松糕（小麦粉、南瓜、淀粉、白砂糖等）（佛山市顺德区屏荣）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/松糕.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\松糕.md"
+    },
+    {
+      "title": "梅菜扣肉",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 60,
+      "servings": 2,
+      "ingredients": [
+        "虎皮扣肉（五花肉）（老乡鸡称经由中央厨房清洗、漂烫、过油、卤制、速冻、分切，但未公布具体步骤",
+        "梅干菜",
+        "老抽",
+        "蚝油",
+        "大豆油",
+        "白砂糖",
+        "鸡精"
+      ],
+      "instructions": [
+        "将解冻完全的 900g 虎皮扣肉与 30g 老抽、80g 蚝油、20g 鸡精抓拌均匀；",
+        "先在餐具中整齐码入拌匀后的扣肉片；",
+        "放上梅菜；",
+        "放入上汽后的蒸柜中蒸制 60 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/梅菜扣肉.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\梅菜扣肉.md"
+    },
+    {
+      "title": "活珠子/凤凰蛋",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "凤凰蛋"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制 30 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/凤凰蛋(活珠子",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\活珠子.md"
+    },
+    {
+      "title": "白切鸡",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "岭南黄（熟）（来自湖州南浔温氏佳味）",
+        "生抽",
+        "味极鲜酱油",
+        "芝麻香油",
+        "白砂糖",
+        "葱花"
+      ],
+      "instructions": [
+        "白切鸡料配制（15 份）：生抽 40g、味极鲜 200g、纯净水 200g、白砂糖 50g、葱花 20g、芝麻香油 10g；",
+        "将整鸡分切为宽度 1.5cm、长度 6cm 的块状;",
+        "每份白切鸡出品时，淋上 30g 白切鸡料。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/白切鸡.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\白切鸡.md"
+    },
+    {
+      "title": "秘汁卤肉饭",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/秘汁卤肉饭.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\秘汁卤肉饭.md"
+    },
+    {
+      "title": "竹笋蒸鸡翅",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡翅（鸡中翅、鸡翅根）",
+        "清水笋丝",
+        "[鸡翅调料]"
+      ],
+      "instructions": [
+        "取 70g 清水笋丝放于餐具中；",
+        "在笋丝上均匀平铺 75g 鸡翅块；",
+        "将 70g 鸡翅调料平铺在鸡翅块上；",
+        "蒸柜上汽后，蒸制 20 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/竹笋蒸鸡翅.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\竹笋蒸鸡翅.md"
+    },
+    {
+      "title": "粉蒸肉",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 40,
+      "servings": 2,
+      "ingredients": [
+        "肉片（五花肉、夹座肉）",
+        "蒸肉米粉（来自湖南鹏城远方食品）",
+        "蒸肉酱（芝麻酱、花生酱、海鲜酱、蚝油、南乳汁等）（来自湖南鹏城远方食品）",
+        "黄心红薯块"
+      ],
+      "instructions": [
+        "30g 米粉用 20g 纯净水搅拌均匀；",
+        "将 80g 肉片和 8g 蒸肉酱搅拌均匀；",
+        "将拌匀后的肉片和米粉混匀，使每块肉均匀沾上米粉；",
+        "餐具中放入 70g 红薯块；",
+        "在红薯块上平铺 130g 米粉肉；",
+        "蒸柜上汽后，蒸制 40 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/粉蒸肉.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\粉蒸肉.md"
+    },
+    {
+      "title": "粗粮盒",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "玉米块",
+        "南瓜块",
+        "红薯块",
+        "红枣"
+      ],
+      "instructions": [
+        "将南瓜90g（两块）、红薯100g(两块）、玉米100g（两块）放入蒸柜中蒸制25 分钟"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/粗粮盒.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\粗粮盒.md"
+    },
+    {
+      "title": "肉饼蒸蛋",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/肉饼蒸蛋.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\肉饼蒸蛋.md"
+    },
+    {
+      "title": "胡萝卜牛肉",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "红烧牛肉（牛霖、水、菜籽油、牛油、豆瓣酱、花椒、干红椒、京葱、盐等）（老乡鸡中央厨房分切、烧制，详细成分、配比与步骤老乡鸡官方未公布，请依据个人口味适量调整）",
+        "胡萝卜",
+        "葱"
+      ],
+      "instructions": [
+        "餐具中加入 110g 胡萝卜片；",
+        "取 55g 红烧牛肉片平铺在胡萝卜上，再加入 70g 红烧牛肉汤汁；",
+        "蒸柜上汽后，蒸制 25 分钟，出品时撒 1g 葱花点缀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/胡萝卜牛肉.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\胡萝卜牛肉.md"
+    },
+    {
+      "title": "葱油鸡",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "小母鸡",
+        "葱油",
+        "味极鲜酱油",
+        "水",
+        "香葱"
+      ],
+      "instructions": [
+        "葱油鸡调料配制（1 份）：40g 味极鲜酱油、10g 葱油、25g纯净水；",
+        "每 500g 鸡用 5g 盐、3g 鸡精、4g 葱段、2g 姜片腌制 20 分钟；",
+        "腌制好的小母鸡放入蒸柜中蒸制 25 分钟；",
+        "将蒸制后的小母鸡取出，分切为宽度 1.5 厘米、长度 6cm的块状；",
+        "菜品出品之前放入蒸柜蒸制 5 分钟，出品时淋上 75g 葱油鸡调料，撒上 1g 葱花点缀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/葱油鸡.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\葱油鸡.md"
+    },
+    {
+      "title": "蒜蓉娃娃菜",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/蒜蓉娃娃菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\蒜蓉娃娃菜.md"
+    },
+    {
+      "title": "蒜蓉粉丝虾",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "开背虾",
+        "粉丝",
+        "蒜蓉酱（来自四川新雅轩、聚慧食品）",
+        "葱油（大豆油、香葱、洋葱、火葱）",
+        "红椒",
+        "味极鲜酱油",
+        "水",
+        "香葱"
+      ],
+      "instructions": [
+        "调味汁配比：400g 味极鲜酱油，250g 纯净水，100g 葱油；",
+        "将 7 个开背虾首尾交错摆放在 85g 泡发好的粉丝上；",
+        "25g 蒜蓉酱和 2g 红椒丁混匀后平铺于虾肉上，蒸柜上汽后，蒸制 5 分钟；",
+        "出品时淋 20g 调味汁，撒 1g 葱花点缀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/蒜蓉粉丝虾.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\蒜蓉粉丝虾.md"
+    },
+    {
+      "title": "虾仁蒸鸡蛋",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/虾仁蒸鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\虾仁蒸鸡蛋.md"
+    },
+    {
+      "title": "蜜汁南瓜",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/蜜汁南瓜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\蜜汁南瓜.md"
+    },
+    {
+      "title": "酱椒蒜香片片鱼",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "黑鱼片",
+        "娃娃菜",
+        "玉耳",
+        "酱椒蒜香调味酱（来自湖南鹏城远方食品、湖南汇湘轩生物）",
+        "豉油汁（大豆油、酱油、白砂糖、洋葱、大葱等）",
+        "葱"
+      ],
+      "instructions": [
+        "30g 娃娃菜和 30g 玉耳下入沸水中汆烫 15 秒后，冲凉备用；",
+        "120g 黑鱼片下入沸水中汆烫 30 秒后，冲凉备用；",
+        "餐具中放入烫制后的娃娃菜和玉耳，再加入烫制后的黑鱼片，沿餐具边缘浇淋 10g 豉油汁，再将 50g 酱椒蒜香调味酱平铺在黑鱼片上；",
+        "蒸柜上汽后，蒸制 6 分钟，出品撒 1g 葱花点缀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酱椒蒜香片片鱼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\酱椒蒜香片片鱼.md"
+    },
+    {
+      "title": "酱蒸白干",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "将 1200g 白干、610g 酱蒸白干料、180g 蒜子，拌匀备用；",
+        "分装到餐具后，在上汽的蒸柜中，蒸制 20 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酱蒸白干.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\酱蒸白干.md"
+    },
+    {
+      "title": "酱蒸豆腐",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "取 160g 豆腐，辅以 60g 酱蒸白干料；",
+        "蒸柜上汽后，蒸制 20 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酱蒸豆腐.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\酱蒸豆腐.md"
+    },
+    {
+      "title": "酱香小河虾",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "河虾",
+        "香干",
+        "河虾酱料（干辣椒、黄酒、蚕豆辣酱、火葱、鸡油等）（老乡鸡中央厨房分切、调理，详细成分与配比官方未公布，请依据个人口味适量调整）"
+      ],
+      "instructions": [
+        "将50g 河虾和60g 酱料拌匀备用；",
+        "在餐具中放入80g 香干丁；",
+        "将110g 拌匀的河虾平铺在香干丁上；",
+        "蒸柜上汽后，蒸制12 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酱香小河虾.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\酱香小河虾.md"
+    },
+    {
+      "title": "风干牛肉蒸白干",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "风干牛肉（牛胸肉）（来自北京泓睿、江苏恒古、江苏紫荆华美实业）",
+        "白干",
+        "[风干牛肉酱料]",
+        "水"
+      ],
+      "instructions": [
+        "将 60g 风干牛肉和 50g 酱料、10g 水翻拌均匀；",
+        "50g 白干平铺于餐具底部；",
+        "120g 拌好的牛肉平铺于白干上；",
+        "蒸柜上汽后，蒸制 25 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/风干牛肉蒸白干.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\风干牛肉蒸白干.md"
+    },
+    {
+      "title": "香肠蒸豆米",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "香肠",
+        "毛豆米",
+        "鸡油",
+        "[老鸡汤]",
+        "鸡精",
+        "盐"
+      ],
+      "instructions": [
+        "香肠分切成片；",
+        "将 120g 豆米放入餐具底部，撒上 1g 盐、1g 鸡精、13g 鸡油；",
+        "将 30g 香肠片平铺在豆米上,并加入 20g 老鸡汤；",
+        "待蒸柜上汽后，蒸制 12 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香肠蒸豆米.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\香肠蒸豆米.md"
+    },
+    {
+      "title": "香芋蒸排骨",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "香芋块（荔浦芋头）",
+        "调理排骨（猪肋排、大豆油、鸡蛋清、玉米淀粉、酱油、料酒、白胡椒等）（老乡鸡中央厨房制作，详细成分与配比官方未公布，请依据个人口味适量调整）",
+        "调味粉（来自益阳世林食品）",
+        "熟猪油"
+      ],
+      "instructions": [
+        "调味水配制（3 份）：将 300g 热水、13g 调味粉和 9g 熟猪油混合均匀；",
+        "取 100g 香芋块放入餐具，将 80g 调理排骨均匀平铺在香芋块上；",
+        "加入 80g 调味水，直至没过香芋块；",
+        "蒸柜上汽后，蒸制 18 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香芋蒸排骨.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\香芋蒸排骨.md"
+    },
+    {
+      "title": "香辣血旺",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香辣血旺.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\香辣血旺.md"
+    },
+    {
+      "title": "鸡汁辣鱼",
+      "category": "steam",
+      "description": "蒸菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "草鱼块",
+        "[鸡汁辣鱼料]",
+        "红椒",
+        "[老鸡汤]"
+      ],
+      "instructions": [
+        "500g 鸡汁辣鱼料中加入 100g 热的老鸡汤，搅拌均匀；",
+        "在酱料中放入 1500g 鱼块，翻拌均匀；",
+        "将拌好的辣鱼块分装到餐具中，每份点缀 3 块红椒片；",
+        "蒸柜上汽后，蒸制 15 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鸡汁辣鱼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\蒸菜\\鸡汁辣鱼.md"
+    }
+  ]
+}

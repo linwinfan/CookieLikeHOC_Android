@@ -1,0 +1,202 @@
+{
+  "category": "blanched",
+  "count": 9,
+  "recipes": [
+    {
+      "title": "浇汁西兰花",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "西兰花",
+        "豉油汁"
+      ],
+      "instructions": [
+        "取170g 西兰花，在沸水中汆烫60 秒；"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/浇汁西兰花.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\浇汁西兰花.md"
+    },
+    {
+      "title": "特色热干面",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "热干面条（武汉金香园）",
+        "胡萝卜丁",
+        "热干面复合调味粉（胡椒粉、鸡精、谷氨酸钠、白砂糖）",
+        "热干面调味汁（酿造酱油、酿造陈醋、白砂糖、芝麻油、姜、蒜等）（武汉金香园）",
+        "芝麻酱"
+      ],
+      "instructions": [
+        "将1 份热干面拆袋倒入面篓中，沸水烫煮6~7 秒，在水中轻微抖动；",
+        "烫好的面控水2-3 秒；",
+        "将烫好后的面装入碗中，依次加入5g 胡萝卜丁、3.5g 热干面复合调味粉、25g 煮面水、13g 热干面调味汁、17g 稀释芝麻酱(芝麻酱：大豆油=1:1）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/特色热干面.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\特色热干面.md"
+    },
+    {
+      "title": "菠菜蛋皮丝",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "菠菜",
+        "蛋皮",
+        "盐",
+        "鸡精",
+        "白砂糖",
+        "红椒",
+        "芝麻香油",
+        "大豆油"
+      ],
+      "instructions": [
+        "菠菜焯水：取 1330g 菠菜，在沸水中汆烫 60 秒捞出，纯净水冲凉，挤干水分，切成段状，备用；",
+        "在备好的菠菜段、200g 蛋皮丝中加入 6g 盐、6g 鸡精、3g 白砂糖、10g 红椒、30g 芝麻香油、20g 大豆油，拌匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/菠菜蛋皮丝.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\菠菜蛋皮丝.md"
+    },
+    {
+      "title": "葱油拌面",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "半干面（上海贺寿）",
+        "拌面葱油（大豆油、小葱、大葱、洋葱等）（浙江今味）",
+        "拌面酱（酿造酱油、黄豆、盐、小麦、白砂糖、甜面酱等）（浙江今味）",
+        "葱花"
+      ],
+      "instructions": [
+        "舀取20g 拌面葱油和15g 拌面酱放入面碗中；",
+        "将150g 半干面倒入面篓中，煮制约3 分钟；",
+        "将煮好面条捞起沥干水分，放入面碗中，撒上1g 葱花出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/葱油拌面.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\葱油拌面.md"
+    },
+    {
+      "title": "葱油菜心",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "取 150g 菜心，在沸水中汆烫 60 秒；",
+        "将烫好的菜心放入餐具中，淋上 30g 豉油汁出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/葱油菜心.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\葱油菜心.md"
+    },
+    {
+      "title": "葱油菜苔",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "菜苔",
+        "豉油汁"
+      ],
+      "instructions": [
+        "取 140g 菜苔，在沸水中汆烫 30 秒；",
+        "将烫好的菜苔放入餐具中，淋上 30g 豉油汁出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/葱油菜苔.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\葱油菜苔.md"
+    },
+    {
+      "title": "香脆木耳",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "木耳",
+        "生抽",
+        "恒顺陈醋",
+        "芝麻香油",
+        "味极鲜酱油",
+        "红椒",
+        "京葱",
+        "白砂糖"
+      ],
+      "instructions": [
+        "调味汁（10 份）：120g 恒顺陈醋、100g 芝麻香油、150g 味极鲜酱油、40g 白砂糖、60g 水、100g 红椒、50g 京葱；",
+        "取 120g 木耳，在沸水中汆烫 10 秒；",
+        "将烫好的木耳放入餐具中，加入 65g 调味汁出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香脆木耳.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\香脆木耳.md"
+    },
+    {
+      "title": "鸡汤娃娃菜",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鸡汤娃娃菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\鸡汤娃娃菜.md"
+    },
+    {
+      "title": "麻辣鸡块",
+      "category": "blanched",
+      "description": "烫菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "老鸡块（老母鸡）",
+        "白糖",
+        "味极鲜酱油",
+        "麻辣油（辣椒、花椒、大豆油等）",
+        "水",
+        "红椒丁",
+        "京葱丁"
+      ],
+      "instructions": [
+        "老母鸡炖制：每只老母鸡加入 2g 盐，冷藏腌制 20 分钟；每 500g 老母鸡，加入 16g 盐、60g 鸡油、2500g 水，炖煮出老母鸡汤香味，老母鸡剁块备用；",
+        "1 份麻辣鸡块调味汁配制：味极鲜酱油 25g、麻辣油 15g、直饮水 15g、红椒丁 10g、京葱丁 5g;",
+        "将老鸡块放入沸水中烫 2 分钟，捞起沥干水分，淋上70g 调味汁出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/麻辣鸡块.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烫菜\\麻辣鸡块.md"
+    }
+  ]
+}

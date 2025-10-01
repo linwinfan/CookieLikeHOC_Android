@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">像老乡鸡那样做饭</string>
+    
+    <!-- 通用 -->
+    <string name="loading">加载中...</string>
+    <string name="error">出错了</string>
+    <string name="retry">重试</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="back">返回</string>
+    <string name="search">搜索</string>
+    <string name="favorite">收藏</string>
+    <string name="unfavorite">取消收藏</string>
+    
+    <!-- 主页 -->
+    <string name="home_title">像老乡鸡那样做饭</string>
+    <string name="categories">菜谱分类</string>
+    <string name="recommended_recipes">推荐菜谱</string>
+    <string name="recent_recipes">最新菜谱</string>
+    <string name="random_recipes">随机推荐</string>
+    <string name="refresh_recommendations">刷新推荐</string>
+    
+    <!-- 搜索 -->
+    <string name="search_hint">搜索菜谱、菜谱配料...</string>
+    <string name="search_results">搜索结果</string>
+    <string name="no_results">未找到相关菜谱</string>
+    <string name="try_other_keywords">尝试使用其他关键词搜索</string>
+    <string name="all_recipes">所有菜谱</string>
+    
+    <!-- 菜谱详情 -->
+    <string name="basic_info">基本信息</string>
+    <string name="category">菜谱分类</string>
+    <string name="cooking_time">时间</string>
+    <string name="servings">份数</string>
+    <string name="difficulty">难度</string>
+    <string name="ingredients">菜谱配料</string>
+    <string name="instructions">制作步骤</string>
+    <string name="tips">小贴士</string>
+    <string name="rate_recipe">为这道菜评分</string>
+    <string name="rating_comment_hint">评价 (可选)</string>
+    <string name="submit_rating">提交</string>
+    
+    <!-- 分类 -->
+    <string name="no_recipes_in_category">暂无菜谱</string>
+    <string name="more_content_coming">敬请期待更多精彩内容</string>
+    
+    <!-- 收藏 -->
+    <string name="my_favorites">我的收藏</string>
+    <string name="no_favorites">还没有收藏的菜谱</string>
+    <string name="discover_recipes">快去发现喜欢的菜谱吧</string>
+    
+    <!-- 难度等级 -->
+    <string name="difficulty_easy">简单</string>
+    <string name="difficulty_medium">中等</string>
+    <string name="difficulty_hard">困难</string>
+    
+    <!-- 分类名称 -->
+    <string name="category_main_dish">主食</string>
+    <string name="category_stir_fry">炒菜</string>
+    <string name="category_braised">炖菜</string>
+    <string name="category_steamed">蒸菜</string>
+    <string name="category_breakfast">早餐</string>
+    <string name="category_beverage">饮品</string>
+    <string name="category_soup">汤</string>
+    <string name="category_dessert">甜品</string>
+    <string name="category_salad">凉菜</string>
+    <string name="category_snack">小食</string>
+    <string name="category_ingredient">菜谱配料</string>
+    <string name="category_blanched">焯水</string>
+    <string name="category_fried">油炸</string>
+    <string name="category_baked">烘焙</string>
+    <string name="category_grilled">烧烤</string>
+</resources>

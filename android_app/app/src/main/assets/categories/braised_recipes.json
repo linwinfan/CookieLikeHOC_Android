@@ -1,0 +1,135 @@
+{
+  "category": "braised",
+  "count": 6,
+  "recipes": [
+    {
+      "title": "卤大排",
+      "category": "braised",
+      "description": "卤菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "卤料",
+        "卤油（大豆油、花椒、辣椒、生姜等）（与卤油都来自成都圣恩、四川新雅轩、四川家佳百味）",
+        "油炸大排"
+      ],
+      "instructions": [
+        "在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣；",
+        "解冻后的大排放入卤汤中，大火烧开后转小火卤制 10 分钟，关火焖 5 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/卤大排.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\卤菜\\卤大排.md"
+    },
+    {
+      "title": "卤方干",
+      "category": "braised",
+      "description": "卤菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "卤料",
+        "卤油（大豆油、花椒、辣椒、生姜等）（与卤油都来自成都圣恩、四川新雅轩、四川家佳百味）",
+        "方干"
+      ],
+      "instructions": [
+        "在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣；",
+        "方干放入卤汤中，大火烧开后转小火卤制 5 分钟，关火焖 10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/卤方干.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\卤菜\\卤方干.md"
+    },
+    {
+      "title": "卤翅根",
+      "category": "braised",
+      "description": "卤菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "卤料",
+        "卤油（大豆油、花椒、辣椒、生姜等）（同卤料来自成都圣恩、四川新雅轩、四川家佳百味）",
+        "鸡翅根"
+      ],
+      "instructions": [
+        "解冻后的鸡翅根焯水，捞出备用；",
+        "在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣，备用；",
+        "卤汤中下入鸡翅根，大火烧开后转小火卤 20 分钟，关火焖 10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/卤翅根.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\卤菜\\卤翅根.md"
+    },
+    {
+      "title": "卤鸡爪",
+      "category": "braised",
+      "description": "卤菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "卤料",
+        "卤油（大豆油、花椒、辣椒、生姜等）（同卤料来自成都圣恩、四川新雅轩、四川家佳百味）",
+        "卤鸡爪（鸡爪）（老乡鸡中央厨房腌制、焯水、卤制、速冻，详细成分、配比与步骤老乡鸡官方未公布，请依据个人口味适量调整）"
+      ],
+      "instructions": [
+        "在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣，备用；",
+        "解冻后的卤鸡爪放入卤汤中，大火烧开后转小火卤 5 分钟，关火焖 5 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/卤鸡爪.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\卤菜\\卤鸡爪.md"
+    },
+    {
+      "title": "卤鸡腿",
+      "category": "braised",
+      "description": "卤菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "卤料",
+        "卤油（大豆油、花椒、辣椒、生姜等）（同卤料来自成都圣恩、四川新雅轩、四川家佳百味）",
+        "卤鸡腿（琵琶腿）（老乡鸡中央厨房腌制、焯水、卤制、速冻，详细成分、配比与步骤老乡鸡官方未公布，请依据个人口味适量调整）"
+      ],
+      "instructions": [
+        "在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣，备用；",
+        "解冻后的卤鸡腿放入卤汤中，大火烧开后转小火卤 5 分钟，关火焖 5 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/卤鸡腿.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\卤菜\\卤鸡腿.md"
+    },
+    {
+      "title": "嗨嗨桶（红油串串）",
+      "category": "braised",
+      "description": "卤菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "钵钵鸡红油（藤椒油、辣椒油、辣椒等）",
+        "钵钵鸡汤料（与钵钵鸡红油均来自成都圣恩）",
+        "白芝麻",
+        "钵钵鸡串串（鸡翅尖、牛肉、鸡肉、腊肠、豆干、海带、杏鲍菇、千张、木耳、豆皮）（杭州喜牛哥）"
+      ],
+      "instructions": [
+        "钵钵鸡汤底：锅中加入2000g 水，放入320g 钵钵鸡汤底料、450g 钵钵鸡红油、60g 白芝麻，搅拌均匀，备用；",
+        "将解冻好的10 串钵钵鸡串串，焯水1 分30 秒；",
+        "将串串浸泡在钵钵鸡汤底中，小火烧开后焖5 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/嗨嗨桶（红油串串）.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\卤菜\\嗨嗨桶（红油串串）.md"
+    }
+  ]
+}

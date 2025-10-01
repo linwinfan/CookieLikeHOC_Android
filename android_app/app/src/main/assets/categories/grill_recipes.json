@@ -1,0 +1,24 @@
+{
+  "category": "grill",
+  "count": 1,
+  "recipes": [
+    {
+      "title": "烤肠",
+      "category": "grill",
+      "description": "烤类类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "烤肠（猪肉）（北京二商肉类、福建御味香）"
+      ],
+      "instructions": [
+        "解冻后的烤肠放入120℃烤肠机中烤20 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/烤肠.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\烤类\\烤肠.md"
+    }
+  ]
+}

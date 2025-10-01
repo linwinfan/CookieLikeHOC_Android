@@ -1,0 +1,420 @@
+{
+  "category": "breakfast",
+  "count": 21,
+  "recipes": [
+    {
+      "title": "包子",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "手工香菇青菜包（也来自扬州冶春）",
+        "手工麻辣海带包",
+        "手工鲜肉包（也来自扬州冶春）",
+        "大肉包",
+        "牛肉粉丝包（仅来自南京中茂）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，手工香菇青菜包蒸制 10 分钟；",
+        "手工鲜肉包、手工麻辣海带包、牛肉粉丝包蒸制 12 分钟；",
+        "大肉包蒸制 15 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/包子.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\包子.md"
+    },
+    {
+      "title": "奶黄鸡包",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "奶黄鸡包（小麦粉、玉米粉、鸡蛋、白砂糖等）（来自郑州千味央厨）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制 8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/奶黄鸡包.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\奶黄鸡包.md"
+    },
+    {
+      "title": "小米南瓜粥",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 40,
+      "servings": 2,
+      "ingredients": [
+        "小黄米",
+        "南瓜丁"
+      ],
+      "instructions": [
+        "将300g 小黄米淘洗沥干；",
+        "将400g 南瓜丁和4600g 水放入不锈钢桶内，大火烧开后，下入淘洗过的小黄米，搅拌均匀，熬制40 分钟即可出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小米南瓜粥.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\小米南瓜粥.md"
+    },
+    {
+      "title": "手工春卷",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "手工春卷（来自安徽大狼食品）",
+        "起酥油"
+      ],
+      "instructions": [
+        "春卷放入 190℃的油中炸制 4 分钟（两面各 2 分钟）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/手工春卷.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\手工春卷.md"
+    },
+    {
+      "title": "手工烧麦",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "手工烧麦（来自山东康喜）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制 10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/手工烧麦.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\手工烧麦.md"
+    },
+    {
+      "title": "水煮蛋",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡蛋"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制 8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/水煮蛋.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\水煮蛋.md"
+    },
+    {
+      "title": "牛肉盒",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "牛肉盒（来自新乡富元）",
+        "起酥油"
+      ],
+      "instructions": [
+        "牛肉盒放入 190℃的油中油炸 4 分钟（两面各炸 2 分钟）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/牛肉盒.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\牛肉盒.md"
+    },
+    {
+      "title": "现炸大油条",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "酥脆大油条（小麦粉）（来自郑州千味央厨食品、日照天海食品）",
+        "起酥油"
+      ],
+      "instructions": [
+        "油条放入190℃的油中炸制1 分钟（油条两面各炸30 秒），至"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/现炸大油条.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\现炸大油条.md"
+    },
+    {
+      "title": "现熬豆粥",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "中等",
+      "cooking_time": 40,
+      "servings": 2,
+      "ingredients": [
+        "粥米",
+        "大米",
+        "糯米",
+        "麻豆或绿豆",
+        "碱粉"
+      ],
+      "instructions": [
+        "不锈钢桶中放入8500g 水，用大火烧开；",
+        "将100g 糯米、80g 大米、320g 粥米、100g 麻豆（绿豆）清洗干净，放入水中烧开，再加入3g 碱粉搅匀；",
+        "熬制40 分钟即可出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/现熬豆粥.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\现熬豆粥.md"
+    },
+    {
+      "title": "白米粥",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 60,
+      "servings": 2,
+      "ingredients": [
+        "粥米",
+        "大米",
+        "糯米"
+      ],
+      "instructions": [
+        "将320g 粥米、80g 大米、100g 糯米清洗干净和8500g 水放入"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/白米粥.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\白米粥.md"
+    },
+    {
+      "title": "粢饭糕",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "粢饭糕",
+        "起酥油"
+      ],
+      "instructions": [
+        "粢饭糕放入 190℃的油中油炸 3 分钟（两面各炸 1 分 30 秒）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/粢饭糕.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\粢饭糕.md"
+    },
+    {
+      "title": "花卷",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "花卷（小麦粉、香葱）（来自新乡富元、天津快厨餐饮）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/花卷.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\花卷.md"
+    },
+    {
+      "title": "茶叶蛋",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "放入蒸柜蒸 8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/茶叶蛋.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\茶叶蛋.md"
+    },
+    {
+      "title": "荠菜鲜肉蒸饺",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "荠菜鲜肉蒸饺（小麦粉、猪肉、荠菜、盐、鸡精等）（来自郑州千味央厨、山东康喜）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制 10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/荠菜鲜肉蒸饺.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\荠菜鲜肉蒸饺.md"
+    },
+    {
+      "title": "蛋饼",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "面粉",
+        "鸡蛋液",
+        "葱花",
+        "大豆油",
+        "盐"
+      ],
+      "instructions": [
+        "将 500g 面粉、650g 水、250g 鸡蛋液、50g 葱花、16g 盐搅拌成面糊；",
+        "舀取 2 勺（150g）面糊置于电饼铛中间位置，均匀平摊成圆形；",
+        "煎至单面微黄（约 2 分钟），再翻面煎制微黄（约 2 分钟）出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/蛋饼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\蛋饼.md"
+    },
+    {
+      "title": "赤豆糊元宵",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "中等",
+      "cooking_time": 60,
+      "servings": 2,
+      "ingredients": [
+        "红豆、豆沙、小元宵、藕粉、冰糖"
+      ],
+      "instructions": [
+        "将 250g 红豆泡制 1 小时，清洗后加入 550g 水，放入蒸柜蒸 1.5 小时；",
+        "不锈钢桶内放入 4000g 水、190g 冰糖，大火烧沸，加入255g 豆沙、770g 熟红豆，搅拌均匀，下入小元宵；",
+        "大火烧沸，边搅拌边缓慢倒入藕粉水，大火烧沸 1 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/赤豆糊元宵.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\赤豆糊元宵.md"
+    },
+    {
+      "title": "酥皮萝卜丝馅饼",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "酥皮萝卜丝馅饼（小麦粉、白萝卜、食用猪油、胡萝卜、香葱、淀粉、姜、盐、白砂糖等）（来自新乡富元食品）",
+        "起酥油"
+      ],
+      "instructions": [
+        "酥皮萝卜丝馅饼放入190℃的油中油炸3 分钟（两面各炸1 分30 秒）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酥皮萝卜丝馅饼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\酥皮萝卜丝馅饼.md"
+    },
+    {
+      "title": "饭团",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "紫米饭团蒸制 15 分钟；",
+        "原味肉松饭团、蜜枣谷物饭团蒸制 20 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/饭团.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\饭团.md"
+    },
+    {
+      "title": "馒头",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "小麦粉",
+        "黑米粉",
+        "红糖",
+        "红枣",
+        "栗仁",
+        "糜子",
+        "玉米碴子",
+        "纯牛奶",
+        "南瓜泥",
+        "豆沙",
+        "（馒头分为老面馒头、白面馒头、黑米馒头、栗丁红糖大枣馒头、粗粮黄馍馍几类，分别由：老面馒头——新乡富元食品，白面馒头、黑米馒头——安徽青松食品，栗丁红糖大枣馒头、粗粮黄馍馍——青龙满族自治县双合盛生态农产品供应）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制10 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/馒头.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\馒头.md"
+    },
+    {
+      "title": "香酥牛肉饼",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "圆葱牛肉饼（来自新乡富元、山东康喜）"
+      ],
+      "instructions": [
+        "牛肉馅饼放入 190℃的油中炸制 3 分钟（两面各炸 1 分 30 秒）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香酥牛肉饼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\香酥牛肉饼.md"
+    },
+    {
+      "title": "鸡汁汤包",
+      "category": "breakfast",
+      "description": "早餐类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡汁汤包（小麦粉、前夹肉、熟猪油、皮冻、生姜、香葱、鸡粉、白胡椒、清酱汁、老抽、白糖、盐）（老乡鸡中央厨房和面、醒发、拌馅、成型、速冻，详细步骤与配比老乡鸡官方未公布，请依据个人口味适量调整）"
+      ],
+      "instructions": [
+        "蒸柜上汽后，蒸制 12 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鸡汁汤包.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\早餐\\鸡汁汤包.md"
+    }
+  ]
+}

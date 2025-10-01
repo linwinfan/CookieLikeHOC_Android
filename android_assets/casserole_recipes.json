@@ -1,0 +1,224 @@
+{
+  "category": "casserole",
+  "count": 11,
+  "recipes": [
+    {
+      "title": "砂锅三鲜豆腐",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅三鲜豆腐.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅三鲜豆腐.md"
+    },
+    {
+      "title": "砂锅原味鸡汤米线",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅原味鸡汤米线.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅原味鸡汤米线.md"
+    },
+    {
+      "title": "砂锅木瓜",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅木瓜.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅木瓜.md"
+    },
+    {
+      "title": "砂锅泡椒鸡米花米线",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅泡椒鸡米花米线.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅泡椒鸡米花米线.md"
+    },
+    {
+      "title": "砂锅牛杂煲",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "牛杂（来自浙江浔味堂）",
+        "白萝卜",
+        "蒜花"
+      ],
+      "instructions": [
+        "将100g 白萝卜片平铺在砂锅底部，放入加热后的210g 牛杂、100g 汤汁；",
+        "烧开后煮 1 分钟，撒上 10g 蒜花出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅牛杂煲.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅牛杂煲.md"
+    },
+    {
+      "title": "砂锅番茄米线",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "米线",
+        "西红柿",
+        "木耳",
+        "青菜",
+        "番茄汤膏（番茄酱、白砂糖等）（来自成都圣恩生物）"
+      ],
+      "instructions": [
+        "番茄汤底调制（10 份）：3000g 开水中加入500g 番茄汤膏，搅拌均匀备用；",
+        "砂锅中加入50g 西红柿片、50g 木耳、20g 青菜、2g 盐、370g 番茄汤底，烧开后，下入250g 湿米线，烧开出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅番茄米线.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅番茄米线.md"
+    },
+    {
+      "title": "砂锅盐焗鸡",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅盐焗鸡.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅盐焗鸡.md"
+    },
+    {
+      "title": "砂锅腐竹",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "腐竹",
+        "蛋皮",
+        "熟猪油",
+        "大豆油",
+        "拍蒜",
+        "蒜花",
+        "盐",
+        "鸡精",
+        "水"
+      ],
+      "instructions": [
+        "① 锅中下入 80g 大豆油、80g 熟猪油烧至 160℃；",
+        "② 下入 50g 拍蒜、400g 蛋皮，炒香；",
+        "③ 下入 3000g 开水，烧开后煮 2 分钟；",
+        "④ 下入 1500g 泡好的腐竹、15g 盐，烧开后煮 3 分钟，备用。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅腐竹.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅腐竹.md"
+    },
+    {
+      "title": "砂锅蒜蓉粉丝虾",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅蒜蓉粉丝虾.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅蒜蓉粉丝虾.md"
+    },
+    {
+      "title": "砂锅酸菜鱼",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "小叶酸菜",
+        "金针菇",
+        "粉丝",
+        "巴沙鱼片",
+        "金汤（来自成都圣恩生物、四川民福记、广东美味源）",
+        "糊辣油"
+      ],
+      "instructions": [
+        "汤底调制（10 份）：3400g 开水中加入 480g 金汤，搅拌均匀备用；",
+        "将 50g 金针菇、50g 湿粉丝、70g 小叶酸菜平铺在砂锅中；",
+        "砂锅中加入 350g 调制好的汤底并烧开；",
+        "下入 130g 巴沙鱼片，烧开后撇去浮沫，浇上 15g 糊辣油，撒入 1g 葱花出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/砂锅酸菜鱼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\砂锅酸菜鱼.md"
+    },
+    {
+      "title": "酸菜肥肠煲",
+      "category": "casserole",
+      "description": "砂锅菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "肥肠",
+        "猪杂（肥肠、猪肚、猪肺等）",
+        "泡小米辣",
+        "蒜子",
+        "泡椒调味料（来自成都圣恩）",
+        "炒制酸菜",
+        "鸡精",
+        "白砂糖",
+        "老抽",
+        "陈醋",
+        "藤椒油",
+        "蒜花",
+        "水",
+        "菜籽油"
+      ],
+      "instructions": [
+        "① 150g 菜籽油烧至 160℃；",
+        "② 下入 50g 拍蒜、50g 泡小米辣，炒香；",
+        "③ 下入 250g 泡椒调味料，炒香；",
+        "④ 下入 300g 焯水后的肥肠、250g 焯水后的猪杂，炒香；",
+        "⑤ 下入 1200g 水，烧开后，下入 5g 白糖、10g 老抽、10g陈醋、8g 藤椒油，煮 3 分钟备用。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酸菜肥肠煲.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\砂锅菜\\酸菜肥肠煲.md"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "category": "fried",
+  "count": 12,
+  "recipes": [
+    {
+      "title": "傲椒风味翅尖",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡翅尖（福建圣农）",
+        "起酥油"
+      ],
+      "instructions": [
+        "6 个鸡翅尖无需解冻直接放入170℃的油锅中炸制3 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/傲椒风味翅尖.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\傲椒风味翅尖.md"
+    },
+    {
+      "title": "嗨嗨桶（炸物桶）",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "香脆鸡腿（琵琶腿）（福建圣农、滁州太阳谷）",
+        "薯饼（土豆）（合肥菲诺）",
+        "鸡米花（安徽正大卜蜂）",
+        "鸡肉洋葱圈（福建圣农）",
+        "鸡翅尖（福建圣农）",
+        "起酥油"
+      ],
+      "instructions": [
+        "油炸炉升温至170℃；",
+        "炸制时间：香脆鸡腿炸制7 分钟，鸡肉洋葱圈、鸡翅尖、薯饼、鸡米花均炸制3 分钟；",
+        "出品组合：1 个鸡腿、2 个洋葱圈、2 个鸡翅尖、1 个薯饼、3 个鸡米花。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/嗨嗨桶（炸物桶）.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\嗨嗨桶（炸物桶）.md"
+    },
+    {
+      "title": "心形鸡排",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "心形鸡排（鸡胸肉）（山东凤祥）",
+        "起酥油"
+      ],
+      "instructions": [
+        "鸡排无需解冻直接放入170℃的油锅中炸制8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/心形鸡排.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\心形鸡排.md"
+    },
+    {
+      "title": "手枪大鸡腿",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "大鸡腿（福建圣农）",
+        "起酥油"
+      ],
+      "instructions": [
+        "解冻后的鸡腿放入蒸柜中，蒸5 分钟，备用；",
+        "将蒸好的大鸡腿放入170℃的油锅中炸制2 分30 秒。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/手枪大鸡腿.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\手枪大鸡腿.md"
+    },
+    {
+      "title": "棒棒虾",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "棒棒虾（南美白虾）（荣成皇朝马汉）",
+        "起酥油"
+      ],
+      "instructions": [
+        "棒棒虾无需解冻直接放入170℃的油锅中炸制8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/棒棒虾.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\棒棒虾.md"
+    },
+    {
+      "title": "炸鸡排",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "雪花鸡排（鸡胸肉）（安徽正大卜蜂）",
+        "起酥油"
+      ],
+      "instructions": [
+        "雪花鸡排无需解冻直接放入170℃的油锅中炸制8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/炸鸡排.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\炸鸡排.md"
+    },
+    {
+      "title": "炸鸡腿",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "香脆鸡腿（琵琶腿）（福建圣农、滁州太阳谷）",
+        "起酥油"
+      ],
+      "instructions": [
+        "解冻后的鸡腿放入170℃油中，炸制7 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/炸鸡腿.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\炸鸡腿.md"
+    },
+    {
+      "title": "生炸大鸡腿",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "生炸大鸡腿（鸡全腿）（山东凤祥）",
+        "起酥油"
+      ],
+      "instructions": [
+        "生炸大鸡腿解冻后放入170℃的油锅中炸制8 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/生炸大鸡腿.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\生炸大鸡腿.md"
+    },
+    {
+      "title": "香脆薯饼",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "薯饼（土豆）（合肥菲诺）",
+        "起酥油"
+      ],
+      "instructions": [
+        "薯饼无需解冻直接放入170℃的油锅中炸制3 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香脆薯饼.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\香脆薯饼.md"
+    },
+    {
+      "title": "香芋地瓜丸",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "香芋地瓜丸（香芋、红薯、白糖等）（天津快厨）",
+        "起酥油"
+      ],
+      "instructions": [
+        "香芋地瓜丸无需解冻，直接放入170℃的油锅中炸制6 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香芋地瓜丸.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\香芋地瓜丸.md"
+    },
+    {
+      "title": "香酥鸡米花",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡米花（安徽正大卜蜂）",
+        "起酥油"
+      ],
+      "instructions": [
+        "6 个鸡米花无需解冻直接放入170℃的油锅中炸制3 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香酥鸡米花.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\香酥鸡米花.md"
+    },
+    {
+      "title": "鸡肉洋葱圈",
+      "category": "fried",
+      "description": "炸品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡肉洋葱圈（福建圣农）",
+        "起酥油"
+      ],
+      "instructions": [
+        "5 个鸡肉洋葱圈无需解冻直接放入170℃的油锅中炸制3 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鸡肉洋葱圈.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炸品\\鸡肉洋葱圈.md"
+    }
+  ]
+}

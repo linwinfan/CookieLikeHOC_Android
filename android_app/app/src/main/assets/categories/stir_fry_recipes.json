@@ -1,0 +1,1148 @@
+{
+  "category": "stir_fry",
+  "count": 49,
+  "recipes": [
+    {
+      "title": "什锦蛋炒饭",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "三色杂菜（玉米、豌豆、胡萝卜）",
+        "香肠",
+        "鸡蛋",
+        "米饭",
+        "大豆油"
+      ],
+      "instructions": [
+        "锅中下入75g 大豆油，将250g 鸡蛋液炒成蛋片；",
+        "下入150g 三色杂菜、100g 香肠丁，炒出香味；",
+        "再下入1500g 米饭、8g 盐，翻炒均匀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/什锦蛋炒饭.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\什锦蛋炒饭.md"
+    },
+    {
+      "title": "农家小炒肉（玉耳版本）",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "肉片（五花肉、前夹肉）",
+        "螺丝椒",
+        "玉耳",
+        "盐",
+        "蒜子",
+        "大豆油",
+        "[小炒肉调味汁]"
+      ],
+      "instructions": [
+        "800g 肉片用 60g 大豆油煸炒至油脂渗出；",
+        "下入 60g 蒜子一起炒香；",
+        "下入 150g 小炒肉调味汁炒至肉品上色，出锅备用；",
+        "将 940g 螺丝椒用 60g 大豆油、6g 盐，炒至辣椒断生；",
+        "加入煸炒好的肉片和 250g 玉耳，大火翻炒 3 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/农家小炒肉（玉耳版本）.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\农家小炒肉（玉耳）.md"
+    },
+    {
+      "title": "农家小炒肉（鸡蛋干版本）",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "将 800g 肉片用 60g 大豆油煸炒至油脂渗出；",
+        "下入 60g 蒜子一起炒香；",
+        "下入 150g 调味料炒至肉片上色，备用；",
+        "将 60g 大豆油烧热，加入 940g 螺丝椒和 6g 食盐进行煸炒；下入 100g 鸡蛋干和煸炒好的肉片大火翻炒出锅。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/农家小炒肉(鸡蛋干版本",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\农家小炒肉（鸡蛋干）.md"
+    },
+    {
+      "title": "剁椒木耳炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "木耳",
+        "鸡蛋",
+        "菜籽油",
+        "蒜子",
+        "香葱",
+        "剁椒",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [
+        "10 份混合鸡蛋液调配：800g 鸡蛋液、50g 剁椒、6g 盐；",
+        "下入 170g 菜籽油、10 份混合鸡蛋液，炒成鸡蛋片，出锅备用；",
+        "下入 80g 菜籽油、800g 木耳、60g 蒜子、6g 盐、6g 鸡精，大火爆炒 1 分 10 秒；",
+        "最后下入鸡蛋片、60g 葱段，大火爆炒 30 秒出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/剁椒木耳炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\剁椒木耳炒鸡蛋.md"
+    },
+    {
+      "title": "外婆菜炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "外婆菜（湖南巧佳宴、湖南湘典）",
+        "鸡蛋",
+        "青豌豆",
+        "大豆油",
+        "鲜红小米辣",
+        "生抽",
+        "鸡精"
+      ],
+      "instructions": [
+        "锅中倒入 250g 大豆油烧热，将 800g 鸡蛋液炒成鸡蛋片状，盛装出锅备用；",
+        "下入20g 大豆油、20g 鲜红小米辣、200g 青豌豆，炒出香",
+        "下入1000g 外婆菜、加25g 鸡精、40g 生抽，大火爆炒2",
+        "加入鸡蛋片，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/外婆菜炒鸡蛋.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\外婆菜炒鸡蛋.md"
+    },
+    {
+      "title": "宫保鸡丁",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡丁（去骨鸡腿肉）",
+        "胡萝卜",
+        "干红椒",
+        "大葱",
+        "宫保鸡丁调味酱（生姜、蒜、番茄酱、醋等）（来自成都圣恩生物）",
+        "花生米",
+        "大豆油"
+      ],
+      "instructions": [
+        "180g 大豆油烧至 170℃，下入 1050g 鸡丁煸炒变色；",
+        "倒入 250g 胡萝卜丁翻炒至表面微软；",
+        "下入 20g 干红椒、250g 花生米翻炒均匀；",
+        "出锅前下入 250g 大葱、230g 宫保鸡丁调味酱均匀翻炒 40 秒。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/宫保鸡丁.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\宫保鸡丁.md"
+    },
+    {
+      "title": "家常土豆片",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "土豆（黄心）",
+        "[炒菜基料]",
+        "大豆油",
+        "蒜子",
+        "干红椒",
+        "泡小米辣",
+        "葱段"
+      ],
+      "instructions": [
+        "将 1800g 土豆片，在沸水中焯水至七分熟，捞出备用；",
+        "下入 100g 大豆油、30g 蒜子、7g 干红椒、30g 泡小米辣，炒出香味；",
+        "下入焯水后的土豆片、炒菜基料 1 袋，大火爆炒 2 分钟；",
+        "下入葱段，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/家常土豆片.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\家常土豆片.md"
+    },
+    {
+      "title": "家常小炒",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "芹菜段",
+        "大油片丝",
+        "木耳",
+        "调理肉丝（后座肉、盐、老抽、大豆油等）（老乡鸡中央厨房分切、滚揉，详细成分与配比老乡鸡官方未公布，请依据个人口味适量调整）",
+        "胡萝卜丝",
+        "[家常小炒料]",
+        "蒜子",
+        "大豆油",
+        "老抽"
+      ],
+      "instructions": [
+        "锅中下入 180g 大豆油，将 60g 蒜子炒香；",
+        "加入 500g 肉丝炒至变色；",
+        "加入 300g 木耳丝、300g 胡萝卜丝、70g 调味料、10g 老抽、500g 芹菜段，翻炒至上色；",
+        "加入 200g 油片丝，大火爆炒 20 秒出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/家常小炒.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\家常小炒.md"
+    },
+    {
+      "title": "小炒河虾",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "大豆油",
+        "鸡蛋",
+        "蒜子",
+        "鲜红小米辣",
+        "青椒",
+        "盐",
+        "河虾",
+        "小炒河虾料（生抽、蒸鱼豉油、鸡精、白胡椒、蚝油等）（老乡鸡中央厨房搅拌均匀，详细成分与配比官方未公布，请依据个人口味适量调整）"
+      ],
+      "instructions": [
+        "锅中倒入120g 大豆油烧至160℃，将500g 蛋液炒制成鸡蛋丁状，盛出锅备用；",
+        "再次倒入120g 大豆油，加入100g 蒜子、50g 鲜红小米辣；",
+        "爆香后加入800g 青椒丁煸炒30 秒，撒入14g 盐翻炒；",
+        "加入500g 河虾、70g 小炒河虾料、鸡蛋丁均匀翻炒1 分钟出品"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小炒河虾.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\小炒河虾.md"
+    },
+    {
+      "title": "小炒花菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小炒花菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\小炒花菜.md"
+    },
+    {
+      "title": "小炒面筋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "下入 100g 大豆油、60g 熟猪油、60g 蒜子，炒出香味；",
+        "下入 1000g 面筋丝、炒菜基料 1 袋，大火爆炒 1 分 30 秒；",
+        "最后下入 600g 青椒、100g 红椒，大火爆炒 1 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小炒面筋.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\小炒面筋.md"
+    },
+    {
+      "title": "小炒香干",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小炒香干.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\小炒香干.md"
+    },
+    {
+      "title": "小炒鸡丁",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "青线椒",
+        "鸡丁（去骨鸡腿肉）",
+        "[调味料]",
+        "老抽",
+        "蒜子",
+        "鲜红小米辣",
+        "大豆油",
+        "藤椒油"
+      ],
+      "instructions": [
+        "取 150g 大豆油烧热，加入 1400g 鸡丁煸炒至变色；",
+        "下入 60g 蒜子炒香；",
+        "下入 70g 调味料、15g 老抽翻炒上色；",
+        "加入 270g 线椒、100g 小米辣、20g 藤椒油大火爆炒 1 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小炒鸡丁.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\小炒鸡丁.md"
+    },
+    {
+      "title": "小炒黄牛肉",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "调理牛肉片（牛霖、盐、鸡精、蚝油、老抽等）（老乡鸡中央厨房分切、调理，详细成分与配比官方未公布，请依据个人口味适量调整）",
+        "小炒黄牛肉汁（来自湖南鹏城远方食品、成都圣恩生物）",
+        "大豆油",
+        "牛油",
+        "蒜子",
+        "泡小米辣",
+        "玉耳",
+        "鲜红小米辣",
+        "青蒜或香芹"
+      ],
+      "instructions": [
+        "锅中下入 180g 大豆油和 60g 牛油烧至 180℃，倒入 150g 蒜子、100g 泡小米辣、100g 鲜红小米辣爆香；",
+        "下入 700g 调理牛肉片大火快速炒散至变色；",
+        "倒入 180g 小炒黄牛肉汁、400g 泡发好的玉耳和 300g 青蒜或香芹翻炒 1 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/小炒黄牛肉（青蒜段版）.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\小炒黄牛肉.md"
+    },
+    {
+      "title": "毛豆烧土鸡",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡块（雪山草、小母鸡、鸡边腿）",
+        "豆米",
+        "菜籽油",
+        "熟猪油",
+        "姜片",
+        "拍蒜",
+        "剁椒",
+        "皮冻",
+        "毛豆烧鸡料（来自四川新雅轩、成都圣恩、青岛日辰）"
+      ],
+      "instructions": [
+        "锅中混合 130g 菜籽油和 40g 熟猪油，烧至油温 180℃；",
+        "倒入 1500g 鸡块，煸炒至鸡肉表面泛黄；",
+        "鸡肉中加入 60g 蒜子、60g 姜片、50g 剁椒翻炒;",
+        "炒香后放入 150g 毛豆烧鸡料炒至鸡块上色；",
+        "加入 120g 皮冻、280g 水一起烧开；",
+        "倒入 750g 豆米烧制 3 分钟后大火收汁，出锅前加入 30g 葱段翻拌均匀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/毛豆烧土鸡.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\毛豆烧土鸡.md"
+    },
+    {
+      "title": "油渣大白菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "下入 100g 鸡油、80g 熟猪油、60g 蒜子、60g 生姜、7g 干红椒，炒出香味；",
+        "下入 200g 油渣，翻炒均匀；",
+        "下入 300g 水、5g 盐、1 袋炒菜基料、2200g 大白菜，炖烧入味出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/油渣大白菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\油渣大白菜.md"
+    },
+    {
+      "title": "清炒春菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "下入 50g 大豆油、100g 熟猪油、70g 蒜子，炒出香味；",
+        "下入 1700g 春菜、12g 盐、12g 鸡精、4g 白砂糖、100g水，大火爆炒断生出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒春菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒春菜.md"
+    },
+    {
+      "title": "清炒毛白菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "下入 30g 大豆油、30g 熟猪油、50g 蒜子，炒出香味；",
+        "下入 1300g 毛白菜、10g 盐、6g 鸡精、3g 白砂糖，大火爆炒至断生；",
+        "最后下入 30g 大豆油、30g 熟猪油，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒毛白菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒毛白菜.md"
+    },
+    {
+      "title": "清炒油麦菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "油麦菜",
+        "大豆油",
+        "熟猪油",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [
+        "下入 100g 大豆油、50g 熟猪油、1300g 油麦菜、15g 盐、10g 鸡精",
+        "大火爆炒 2 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒油麦菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒油麦菜.md"
+    },
+    {
+      "title": "清炒莴笋片",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "莴笋",
+        "大豆油",
+        "熟猪油",
+        "鲜红小米辣",
+        "蒜子",
+        "蒸鱼豉油",
+        "盐",
+        "鸡精",
+        "白砂糖"
+      ],
+      "instructions": [
+        "锅中下入 70g 大豆油、40g 熟猪油、30g 蒜子、20g 鲜红小米辣，煸炒出香味；",
+        "下入 1800g 莴笋、18g 蒸鱼豉油、9g 鸡精、9g 盐、2g 白砂糖，大火爆炒 3 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒莴笋片.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒莴笋片.md"
+    },
+    {
+      "title": "清炒菜心",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "锅中倒入 100g 大豆油、30g 熟猪油、30g 蒜子，爆出香味",
+        "下入 1400g 菜心、3g 鸡精、1g 白砂糖、9g 盐，大火爆炒 3 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒菜心.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒菜心.md"
+    },
+    {
+      "title": "清炒西兰花",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "西兰花",
+        "大豆油",
+        "蒜子",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [
+        "下入 150g 大豆油、60g 蒜子，炒出香味；",
+        "下入 2000g 西兰花、15g 盐、10g 鸡精，大火爆炒 1 分 30 秒出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒西兰花.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒西兰花.md"
+    },
+    {
+      "title": "清炒青菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "锅中下入 100g 大豆油、40g 熟猪油、1300g 青菜、12g 盐、6g鸡精、3g 白砂糖",
+        "大火爆炒 2 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/清炒青菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\清炒青菜.md"
+    },
+    {
+      "title": "生炒上海青",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "下入 80g 大豆油、80g 熟猪油、60g 蒜子，爆出香味；",
+        "下入 1300g 上海青、12g 鸡精、12g 盐，大火爆炒 3 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/生炒上海青.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\生炒上海青.md"
+    },
+    {
+      "title": "笋子烧肉",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "五花肉",
+        "笋干",
+        "葱",
+        "大豆油",
+        "猪油",
+        "盐",
+        "烧肉汁（老抽、麦芽糖、南乳、醪糟、生抽、酱油等）（成都圣恩、湖南鹏城远方）"
+      ],
+      "instructions": [
+        "锅中下入2600g 笋干和五花肉，烧制5 分钟，出品撒1g 葱花"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/笋子烧肉.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\笋子烧肉.md"
+    },
+    {
+      "title": "笋子鸡丁盖饭",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡丁（去骨鸡腿肉）",
+        "[剁椒酱]",
+        "罗汉笋块",
+        "茶叶蛋",
+        "菜苔",
+        "豉油汁（大豆油、酱油、白砂糖、洋葱、大葱）",
+        "盐",
+        "鸡精",
+        "老抽",
+        "蒜花"
+      ],
+      "instructions": [
+        "①180g 大豆油烧至 180℃、下入 700g 鸡丁炒熟；",
+        "②下入 8g 老抽、5g 鸡精、2g 盐，将鸡丁炒制上色；",
+        "③下入 120g 剁椒酱、300g 焯水罗汉笋块，一起炒香；",
+        "④下入 36g 蒜花翻炒均匀，备用；"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/笋子鸡丁盖饭.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\笋子鸡丁盖饭.md"
+    },
+    {
+      "title": "糖醋排骨",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "排骨（猪肋排、猪小排、水、冰糖、酿造食醋、黄酒、酱油等）（老乡鸡中央厨房或供应商分切、滚揉、炸制、熬煮，详细成分、配比与步骤老乡鸡官方未公布，请依据个人口味适量调整）",
+        "糖醋汁（水、猪排骨、冰糖、淀粉、胡椒粉等）（来自老乡鸡中央厨房、江苏淮安苏食肉品、浙江浔味堂）",
+        "陈醋"
+      ],
+      "instructions": [
+        "1300g 糖醋汁和 1550g 排骨倒入锅中，大火烧开；",
+        "烧开后炖煮 6 分钟；",
+        "倒入 30g 陈醋，继续炖煮 1 分钟至汤汁浓稠。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/糖醋排骨.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\糖醋排骨.md"
+    },
+    {
+      "title": "红烧茄子",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "茄子",
+        "熟猪油",
+        "鸡油",
+        "蒜子",
+        "剁椒",
+        "[油焖茄子料]"
+      ],
+      "instructions": [
+        "下入 30g 大豆油、30g 鸡油、100g 蒜子、30g 剁椒，炒出香味；",
+        "下入 600g 水、油焖茄子料 1 袋、1400g 茄子，炖烧入味出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/红烧茄子.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\红烧茄子.md"
+    },
+    {
+      "title": "肥肠鸡",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡块（鸡边腿）",
+        "肥肠（猪大肠、黄酒、青花椒、大豆油、冰糖、小茴香、草果、白胡椒、十三香、二锅头等）（来自牧原肉食品）",
+        "生姜",
+        "蒜子",
+        "京葱",
+        "[肥肠鸡酱料]",
+        "熟猪油",
+        "大豆油",
+        "肥肠鸡泡菜包（白萝卜、豇豆、大叶芥菜、二荆条、野山椒）（来自四川民福记）",
+        "配菜（莴笋、土豆、香菜、芋艿、线椒、鲜红小米辣等）",
+        "宽粉",
+        "芝麻香油",
+        "花椒油",
+        "干青花椒",
+        "干红辣椒",
+        "白芝麻"
+      ],
+      "instructions": [
+        "下入 350g 菜籽油、200g 猪油、清洗好沥干水分的 3200g 鸡块，煸炒至表皮微黄；",
+        "下入 50g 葱、140g 姜、200g 蒜，炒出香味；",
+        "下入 800g 肥肠鸡酱料，翻炒均匀；",
+        "下入 3000g 水、40g 盐，煮制 2 分钟即可倒出，鸡块和汤备用。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/肥肠鸡.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\肥肠鸡.md"
+    },
+    {
+      "title": "胡萝卜炒木耳",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "胡萝卜",
+        "木耳",
+        "大豆油",
+        "熟猪油",
+        "生抽",
+        "盐",
+        "鸡精",
+        "青蒜"
+      ],
+      "instructions": [
+        "锅中混合100g 大豆油、50g 熟猪油,烧至油温160℃；",
+        "下入1500g 胡萝卜片、60g 生抽、6g 盐、6g 鸡精、300g 木耳，大火爆炒至熟透；"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/胡萝卜炒木耳.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\胡萝卜炒木耳.md"
+    },
+    {
+      "title": "胡萝卜炒肉片",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "胡萝卜",
+        "调理肉片（后座肉、盐、鸡精、老抽、大豆油等）（老乡鸡中央厨房分切、滚揉，详细成分与配比老乡鸡官方未公布，请依据个人口味适量调整）",
+        "木耳",
+        "大豆油",
+        "生抽",
+        "盐",
+        "鸡精",
+        "蒜花"
+      ],
+      "instructions": [
+        "下入 160g 大豆油烧肉，将 400g 肉片炒至变色；",
+        "下入 1300g 胡萝卜片和 100g 木耳，加入 60g 生抽、6g 盐、6g 鸡精，大火爆炒至全熟；",
+        "最后下入 100g 蒜花，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/胡萝卜炒肉片.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\胡萝卜炒肉片.md"
+    },
+    {
+      "title": "胡萝卜炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "胡萝卜",
+        "鸡蛋",
+        "大豆油",
+        "盐",
+        "鸡精",
+        "香葱"
+      ],
+      "instructions": [
+        "下入 200g 大豆油、600g 鸡蛋液，炒成鸡蛋片，出锅备用；",
+        "下入 100g 大豆油、1500g 胡萝卜丝、14g 盐、14g 鸡精，炒制 2 分钟；",
+        "最后下入鸡蛋片，大火爆炒 1 分 40 秒，最后下入 30g 葱段，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/胡萝卜炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\胡萝卜炒鸡蛋.md"
+    },
+    {
+      "title": "芋儿鸡",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡块（鸡边腿）",
+        "生姜",
+        "蒜子",
+        "京葱",
+        "[肥肠鸡酱料]",
+        "熟猪油",
+        "大豆油",
+        "肥肠鸡泡菜包（白萝卜、豇豆、大叶芥菜、二荆条、野山椒）（来自四川民福记）",
+        "配菜（莴笋、土豆、香菜、芋艿、线椒、鲜红小米辣等）",
+        "宽粉",
+        "芝麻香油",
+        "花椒油",
+        "干青花椒",
+        "干红辣椒",
+        "白芝麻"
+      ],
+      "instructions": [
+        "下入 350g 菜籽油、200g 猪油、清洗好沥干水分的 3200g 鸡块，煸炒至表皮微黄；",
+        "下入 50g 葱、140g 姜、200g 蒜，炒出香味；",
+        "下入 800g 肥肠鸡酱料，翻炒均匀；",
+        "下入 3000g 水、40g 盐、60g 鸡精，煮制 2 分钟即可倒出，鸡块和汤备用。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/芋儿鸡.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\芋儿鸡.md"
+    },
+    {
+      "title": "芹菜炒香干",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "芹菜",
+        "香干",
+        "红椒",
+        "大豆油",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [
+        "下入 120g 大豆油、1100g 芹菜、500g 香干、60g 红椒、15g 盐、10g 鸡精",
+        "大火爆炒 3 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/芹菜炒香干.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\芹菜炒香干.md"
+    },
+    {
+      "title": "芹菜香干炒肉丝",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "芹菜",
+        "香干",
+        "调理肉丝（后座肉、盐、老抽、大豆油等）（老乡鸡中央厨房分切、滚揉，详细成分与配比老乡鸡官方未公布，请依据个人口味适量调整）",
+        "红椒",
+        "大豆油",
+        "盐"
+      ],
+      "instructions": [
+        "下入 150g 大豆油、350g 调理肉丝，炒至肉丝变色；",
+        "下入 5g 老抽，炒至肉丝上色；",
+        "最后下入 1000g 芹菜、500g 香干、60g 红椒、15g 盐、10g 鸡精，大火爆炒 2 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/芹菜香干炒肉丝.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\芹菜香干炒肉丝.md"
+    },
+    {
+      "title": "莴笋丝炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "莴笋",
+        "鸡蛋",
+        "大豆油",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [
+        "锅中倒入 200g 大豆油烧热，将 600g 鸡蛋液炒成鸡蛋片状，盛装出锅备用；",
+        "锅中下入 50g 大豆油、1300g 莴笋丝、15g 盐、10g 鸡精，大火爆炒至莴笋丝断生；",
+        "下入鸡蛋片，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/莴笋丝炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\莴笋丝炒鸡蛋.md"
+    },
+    {
+      "title": "菠萝咕咾肉",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "咕咾肉（鸡肉）（来自正大卜蜂食品安徽）",
+        "大豆油",
+        "菠萝",
+        "果味糖醋酱（来自四川新雅轩、成都圣恩）"
+      ],
+      "instructions": [
+        "1200g 咕咾肉放入 170℃油中，炸至表面微黄，出锅备用；",
+        "炒锅中下入 80g 大豆油，将 500g 果味糖醋酱烧沸，下入 600g 菠萝块炒至菠萝中心完全受热；",
+        "下入炸好的咕咾肉，炒至咕咾肉均匀裹上果味糖醋酱。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/菠萝咕咾肉.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\菠萝咕咾肉.md"
+    },
+    {
+      "title": "菠萝咕咾肉时蔬饭",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "咕咾肉（鸡肉）（来自正大卜蜂食品安徽）",
+        "果味糖醋酱（来自四川新雅轩、成都圣恩）",
+        "菠萝",
+        "米饭",
+        "鸡蛋液",
+        "老抽",
+        "盐",
+        "西兰花",
+        "南瓜",
+        "玉米",
+        "大豆油"
+      ],
+      "instructions": [
+        "炒饭：",
+        "组合："
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/菠萝咕咾肉时蔬饭.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\菠萝咕咾肉时蔬饭.md"
+    },
+    {
+      "title": "蒜泥菠菜",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "取 2100g 菠菜段，置于沸水中汆烫 30 秒；",
+        "锅中下入 150g 大豆油、50g 熟猪油、60g 蒜子，炒出香味；",
+        "下入烫制后的菠菜段、20g 盐、12g 鸡精，大火翻炒均匀后出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/蒜泥菠菜.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\蒜泥菠菜.md"
+    },
+    {
+      "title": "蚕豆炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "蚕豆",
+        "鸡蛋",
+        "大豆油",
+        "红椒",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [
+        "下入600g 鸡蛋液、200g 大豆油，炒成鸡蛋片，出锅备用；",
+        "下入50g 大豆油、900g 蚕豆、100g 红椒、13g 盐、6g 鸡",
+        "最后下入鸡蛋片，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/蚕豆炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\蚕豆炒鸡蛋.md"
+    },
+    {
+      "title": "西红柿炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/西红柿炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\西红柿炒鸡蛋.md"
+    },
+    {
+      "title": "贵州风味辣子鸡",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "炸制鸡块",
+        "辣子鸡酱料（来自四川新雅轩、重庆聚慧）",
+        "蒜子",
+        "菜籽油"
+      ],
+      "instructions": [
+        "300g 菜籽油烧至180℃；",
+        "下入800g 辣子鸡酱料和150g 蒜子，炒至酱料沸腾；",
+        "加入1700g 炸制鸡块，翻炒4 分钟。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/贵州风味辣子鸡.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\贵州风味辣子鸡.md"
+    },
+    {
+      "title": "酸辣土豆丝",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "土豆（黄心）",
+        "大豆油",
+        "干红椒",
+        "盐",
+        "鸡精",
+        "白醋"
+      ],
+      "instructions": [
+        "将 1800g 土豆丝，在沸水中汆烫 15 秒，捞出备用；",
+        "下入 160g 大豆油、10g 干红椒，加入焯水后的土豆丝，炒制 1 分钟；",
+        "下入 18g 盐、10g 鸡精，炒制 1 分 30 秒；",
+        "下入 22g 白醋，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酸辣土豆丝.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\酸辣土豆丝.md"
+    },
+    {
+      "title": "酸辣海带丝",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "下入 200g 大豆油、100g 蒜子、7g 干红椒、50g 剁椒，炒出香味；",
+        "加入 1400g 泡发后的海带丝、10g 盐、10g 鸡精、50g 生抽、40g 陈醋，大火爆炒 2 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/酸辣海带丝.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\酸辣海带丝.md"
+    },
+    {
+      "title": "青椒炒豆芽",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/青椒炒豆芽.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\青椒炒豆芽.md"
+    },
+    {
+      "title": "青椒炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [
+        "锅中下入 200g 大豆油，将 600g 鸡蛋液炒成鸡蛋片，盛出备用；",
+        "锅中下入 100g 大豆油、1400g 青椒、60g 蒜子、20g 盐、10g 鸡精，爆炒至青椒断生；",
+        "最后加入鸡蛋片，翻炒均匀出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/青椒炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\青椒炒鸡蛋.md"
+    },
+    {
+      "title": "香椿炒鸡蛋",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香椿炒鸡蛋.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\香椿炒鸡蛋.md"
+    },
+    {
+      "title": "鱼香肉丝",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "大豆油",
+        "调理肉丝（后座肉、盐、鸡精、老抽、大豆油等）（老乡鸡中央厨房分切、滚揉，详细成分与配比老乡鸡官方未公布，请依据个人口味适量调整）",
+        "清水笋丝（麻笋）",
+        "胡萝卜",
+        "木耳",
+        "鱼香风味酱（来自四川新雅轩）"
+      ],
+      "instructions": [
+        "180g 大豆油烧至 180℃，下入 500g 调理肉丝煸炒至肉丝变色；",
+        "下入 600g 笋丝、300g 胡萝卜丝、300g 木耳丝翻炒均匀",
+        "下入 300g 鱼香风味酱翻炒 2 分钟出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鱼香肉丝.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\鱼香肉丝.md"
+    },
+    {
+      "title": "鱼香肉丝盖饭",
+      "category": "stir_fry",
+      "description": "炒菜类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "大豆油",
+        "调理肉丝（后座肉、盐、老抽、大豆油等）（老乡鸡中央厨房分切、滚揉，详细成分与配比老乡鸡官方未公布，请依据个人口味适量调整）",
+        "清水笋丝（麻笋）",
+        "胡萝卜",
+        "木耳",
+        "鱼香风味酱（来自四川新雅轩）",
+        "大米",
+        "大豆油"
+      ],
+      "instructions": [
+        "① 180g 大豆油烧至 180℃，下入 500g 调理肉丝煸炒至肉丝变色；",
+        "② 下入 600g 笋丝、300g 胡萝卜丝、300g 木耳丝翻炒均匀",
+        "③ 下入 300g 鱼香风味酱翻炒 2 分钟出品吗，备用。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鱼香肉丝盖饭.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炒菜\\鱼香肉丝盖饭.md"
+    }
+  ]
+}

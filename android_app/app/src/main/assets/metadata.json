@@ -1,0 +1,23 @@
+{
+  "source": "CookLikeHOC Recipe Collection",
+  "import_time": "2025-09-29T12:16:31.608074",
+  "total_recipes": 198,
+  "total_categories": 14,
+  "categories": [
+    "staple",
+    "stir_fry",
+    "stew",
+    "steam",
+    "grill",
+    "fried",
+    "cold_dish",
+    "braised",
+    "breakfast",
+    "soup",
+    "blanched",
+    "casserole",
+    "hot_pot",
+    "beverage"
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,92 @@
+{
+  "category": "cold_dish",
+  "count": 4,
+  "recipes": [
+    {
+      "title": "凉拌莴笋丝",
+      "category": "cold_dish",
+      "description": "凉拌类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "莴笋",
+        "红椒",
+        "芝麻香油",
+        "盐",
+        "鸡精",
+        "白砂糖"
+      ],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/凉拌莴笋丝.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\凉拌\\凉拌莴笋丝.md"
+    },
+    {
+      "title": "口水鸡",
+      "category": "cold_dish",
+      "description": "凉拌类菜品",
+      "difficulty": "困难",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "岭南黄（熟）（来自湖州南浔温氏佳味）",
+        "口水鸡底料（来自成都圣恩）",
+        "拌菜红油",
+        "蒜末",
+        "藤椒油",
+        "熟白芝麻",
+        "葱花"
+      ],
+      "instructions": [
+        "口水鸡料配制（5 份）：125g 口水鸡底料、125g 拌菜红油、15g 蒜末、8g 藤椒油、50g 纯净水、20g 熟白芝麻；",
+        "整鸡分切为宽度 1.5cm、长度 6cm 的块状;",
+        "将切好后的鸡块在蒸柜中蒸制 5 分钟;",
+        "鸡块淋上 60g 口水鸡料，并撒上葱花出品。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/口水鸡.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\凉拌\\口水鸡.md"
+    },
+    {
+      "title": "柠檬凤爪",
+      "category": "cold_dish",
+      "description": "凉拌类菜品",
+      "difficulty": "简单",
+      "cooking_time": 60,
+      "servings": 2,
+      "ingredients": [
+        "柠檬拆骨鸡爪（来自上海杨景亿康）",
+        "莴笋"
+      ],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/柠檬凤爪.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\凉拌\\柠檬凤爪.md"
+    },
+    {
+      "title": "西芹花生米",
+      "category": "cold_dish",
+      "description": "凉拌类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "西芹",
+        "花生米",
+        "红椒",
+        "芝麻香油",
+        "盐",
+        "鸡精"
+      ],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/西芹花生米.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\凉拌\\西芹花生米.md"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "total_recipes": 198,
+  "categories": {
+    "staple": 17,
+    "stir_fry": 49,
+    "stew": 7,
+    "steam": 29,
+    "grill": 1,
+    "fried": 12,
+    "cold_dish": 4,
+    "braised": 6,
+    "breakfast": 21,
+    "soup": 3,
+    "blanched": 9,
+    "casserole": 11,
+    "hot_pot": 7,
+    "beverage": 4,
+    "seasoning": 18
+  },
+  "files": [
+    "staple_recipes.json",
+    "stir_fry_recipes.json",
+    "stew_recipes.json",
+    "steam_recipes.json",
+    "grill_recipes.json",
+    "fried_recipes.json",
+    "cold_dish_recipes.json",
+    "braised_recipes.json",
+    "breakfast_recipes.json",
+    "soup_recipes.json",
+    "blanched_recipes.json",
+    "casserole_recipes.json",
+    "hot_pot_recipes.json",
+    "beverage_recipes.json",
+    "seasoning_recipes.json"
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "staple",
+    "name": "staple",
+    "display_name": "主食",
+    "description": "主食类菜品",
+    "icon": "",
+    "sort_order": 0,
+    "recipe_count": 17
+  },
+  {
+    "id": "stir_fry",
+    "name": "stir_fry",
+    "display_name": "炒菜",
+    "description": "炒菜类菜品",
+    "icon": "",
+    "sort_order": 1,
+    "recipe_count": 49
+  },
+  {
+    "id": "stew",
+    "name": "stew",
+    "display_name": "炖菜",
+    "description": "炖菜类菜品",
+    "icon": "",
+    "sort_order": 2,
+    "recipe_count": 7
+  },
+  {
+    "id": "steam",
+    "name": "steam",
+    "display_name": "蒸菜",
+    "description": "蒸菜类菜品",
+    "icon": "",
+    "sort_order": 3,
+    "recipe_count": 29
+  },
+  {
+    "id": "grill",
+    "name": "grill",
+    "display_name": "烤类",
+    "description": "烤类类菜品",
+    "icon": "",
+    "sort_order": 4,
+    "recipe_count": 1
+  },
+  {
+    "id": "fried",
+    "name": "fried",
+    "display_name": "炸品",
+    "description": "炸品类菜品",
+    "icon": "",
+    "sort_order": 5,
+    "recipe_count": 12
+  },
+  {
+    "id": "cold_dish",
+    "name": "cold_dish",
+    "display_name": "凉拌",
+    "description": "凉拌类菜品",
+    "icon": "",
+    "sort_order": 6,
+    "recipe_count": 4
+  },
+  {
+    "id": "braised",
+    "name": "braised",
+    "display_name": "卤菜",
+    "description": "卤菜类菜品",
+    "icon": "",
+    "sort_order": 7,
+    "recipe_count": 6
+  },
+  {
+    "id": "breakfast",
+    "name": "breakfast",
+    "display_name": "早餐",
+    "description": "早餐类菜品",
+    "icon": "",
+    "sort_order": 8,
+    "recipe_count": 21
+  },
+  {
+    "id": "soup",
+    "name": "soup",
+    "display_name": "汤",
+    "description": "汤类菜品",
+    "icon": "",
+    "sort_order": 9,
+    "recipe_count": 3
+  },
+  {
+    "id": "blanched",
+    "name": "blanched",
+    "display_name": "烫菜",
+    "description": "烫菜类菜品",
+    "icon": "",
+    "sort_order": 10,
+    "recipe_count": 9
+  },
+  {
+    "id": "casserole",
+    "name": "casserole",
+    "display_name": "砂锅菜",
+    "description": "砂锅菜类菜品",
+    "icon": "",
+    "sort_order": 11,
+    "recipe_count": 11
+  },
+  {
+    "id": "hot_pot",
+    "name": "hot_pot",
+    "display_name": "煮锅",
+    "description": "煮锅类菜品",
+    "icon": "",
+    "sort_order": 12,
+    "recipe_count": 7
+  },
+  {
+    "id": "beverage",
+    "name": "beverage",
+    "display_name": "饮品",
+    "description": "饮品类菜品",
+    "icon": "",
+    "sort_order": 13,
+    "recipe_count": 4
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "category": "beverage",
+  "count": 4,
+  "recipes": [
+    {
+      "title": "原味豆浆",
+      "category": "beverage",
+      "description": "饮品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 480,
+      "servings": 2,
+      "ingredients": [
+        "黄豆、水"
+      ],
+      "instructions": [
+        "将 500g 干黄豆在 2000g 水中浸泡 8 小时，清洗干净备用；",
+        "在豆浆机内加入 1250g 湿黄豆、5000g 水磨制。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/原味豆浆（现磨版）.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\饮品\\原味豆浆.md"
+    },
+    {
+      "title": "热奶茶",
+      "category": "beverage",
+      "description": "饮品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "苹果山楂风味红茶包（来自大闽食品）",
+        "生椰乳"
+      ],
+      "instructions": [
+        "放入 1 包茶包（3g)，倒入 150ml 开水，盖上盖子闷泡 3 分钟；",
+        "捞出茶包 （茶包不可重复使用），倒入 150ml 生椰乳。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/热奶茶.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\饮品\\热奶茶.md"
+    },
+    {
+      "title": "苹果山楂红茶",
+      "category": "beverage",
+      "description": "饮品类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "苹果山楂红茶茶包（来自大闽食品）"
+      ],
+      "instructions": [
+        "放入 1 包茶包（3g)，倒入 150ml 开水，盖上盖子闷泡 3 分钟；",
+        "捞出茶包 （茶包不可重复使用）。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/苹果山楂红茶.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\饮品\\苹果山楂红茶.md"
+    },
+    {
+      "title": "鸡笼香柠檬茶",
+      "category": "beverage",
+      "description": "饮品类菜品",
+      "difficulty": "中等",
+      "cooking_time": 240,
+      "servings": 2,
+      "ingredients": [
+        "乌龙茶（鸡笼香）调味茶饮料（来自德馨浓缩饮料、浙江博多食品）",
+        "水",
+        "冰块"
+      ],
+      "instructions": [
+        "1000ml 乌龙茶（鸡笼香）调味茶饮料加入 3000ml 直饮冰水搅均；",
+        "放入保冷桶内保鲜 4 小时;",
+        "出品时在杯中装入 8 颗冰块，再接取 280ml 左右鸡笼香茶饮料。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鸡笼香柠檬茶.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\饮品\\鸡笼香柠檬茶.md"
+    }
+  ]
+}

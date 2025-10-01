@@ -1,0 +1,133 @@
+{
+  "category": "stew",
+  "count": 7,
+  "recipes": [
+    {
+      "title": "土豆牛腩",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/土豆牛腩.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\土豆牛腩.md"
+    },
+    {
+      "title": "梅干菜凤爪翅",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "炸制梅菜（大豆油、梅干菜）（老乡鸡中央厨房浸泡、清洗、挑拣、油炸，详细步骤老乡鸡官方未公布，请依据个人口味适量调整）",
+        "卤鸡爪翅（来自老乡鸡中央厨房、山东邹平亚太中慧食品、山东众客食品、江苏淮安苏食肉品）",
+        "红椒",
+        "香葱"
+      ],
+      "instructions": [
+        "锅中放入 700g 水、2100g 卤鸡爪翅，烧制 7 分钟；",
+        "关火加入 150g 炸制梅菜，翻拌均匀；",
+        "出品时撒入 1g 葱花、1g 红椒丁点缀。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/梅干菜凤爪翅.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\梅干菜凤爪翅.md"
+    },
+    {
+      "title": "白菜炖豆腐",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/白菜炖豆腐.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\白菜炖豆腐.md"
+    },
+    {
+      "title": "红烧鱼块",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/红烧鱼块.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\红烧鱼块.md"
+    },
+    {
+      "title": "香辣鸡杂",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡肝",
+        "鸡肫",
+        "[鸡杂料]",
+        "盐",
+        "芝麻香油",
+        "香葱"
+      ],
+      "instructions": [
+        "将 3200g 水、1500g 鸡杂料、30g 盐倒入锅中，烧开后熬制 20 分钟，捞出料渣备用；",
+        "料汁中倒入 1300g 清洗好的鸡肫炖煮 5 分钟；",
+        "再加入 1500g 清洗好的鸡肝，继续炖煮 5 分钟；",
+        "最后淋入 40g 芝麻香油，加入 40g 葱段。"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/香辣鸡杂.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\香辣鸡杂.md"
+    },
+    {
+      "title": "鸡血汤",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "中等",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鸡血",
+        "蛋皮",
+        "青菜",
+        "[老鸡汤]"
+      ],
+      "instructions": [
+        "30g 鸡血用开水烫制 2 分钟后，冷却备用;",
+        "取鸡血、4g 蛋皮、4g 青菜烫制 10 秒后放入汤盅，"
+      ],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/鸡血汤.png",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\鸡血汤.md"
+    },
+    {
+      "title": "麻婆豆腐",
+      "category": "stew",
+      "description": "炖菜类菜品",
+      "difficulty": "简单",
+      "cooking_time": 30,
+      "servings": 2,
+      "ingredients": [],
+      "instructions": [],
+      "tips": "",
+      "nutrition": "",
+      "image_path": "../images/麻婆豆腐.jpg",
+      "source_file": "e:\\UGit\\CookLikeHOC\\炖菜\\麻婆豆腐.md"
+    }
+  ]
+}
